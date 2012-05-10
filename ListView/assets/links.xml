@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<elements>
+	<element>
+		<title>Sports</title>
+		<link>http://greco.bcp.org/webs/svc/announce/daily_rss.php?c=s</link>
+	</element>
+	<element>
+		<title>CSP and Campus Ministry</title>
+		<link>http://greco.bcp.org/webs/svc/announce/daily_rss.php?c=c</link>
+	</element>
+	<element>
+		<title>Clubs</title>
+		<link>http://greco.bcp.org/webs/svc/announce/daily_rss.php?c=o</link>
+	</element>
+	<element>
+		<title>College Guidance</title>
+		<link>http://greco.bcp.org/webs/svc/announce/daily_rss.php?c=u</link>
+	</element>
+	<element>
+		<title>General</title>
+		<link>http://greco.bcp.org/webs/svc/announce/daily_rss.php?c=g</link>
+	</element>
+</elements>
